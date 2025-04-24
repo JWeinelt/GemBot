@@ -16,7 +16,7 @@ GemBot was designed to provide various features for Discord servers, including:
 - **Server statistics**  
 - **Integration with external APIs** for dynamic content  
 
-The bot utilized **discord.js** to interact with the Discord API, but due to time and prioritization, the bot was never fully finished or deployed.
+The bot utilized **JDA** to interact with the Discord API, but due to time and prioritization, the bot was never fully finished or deployed.
 
 ---
 
@@ -41,13 +41,3 @@ The bot utilized **discord.js** to interact with the Discord API, but due to tim
 
 Thanks to anyone who showed interest or provided feedback during the bot’s development.  
 This was a fun learning experience but ultimately left unfinished.
-
----
-
-## 🔗 See Also
-
-- **discord.js** documentation (for bot development):  
-  https://discord.js.org  
-- **discord.js GitHub repository**:  
-  https://github.com/discordjs/discord.js
-
